@@ -141,4 +141,4 @@ It's unlikely you knew I had started to be before dropping out
 # You are not alone
 
 
-![You are doing enough. It is going to be okay.](https://pbs.twimg.com/media/Cu7-2YRWgAAnF-m.jpg)
+![You are doing enough. It is going to be okay.](spacecat.jpg)
