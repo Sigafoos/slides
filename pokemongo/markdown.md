@@ -10,7 +10,7 @@ April 2019
 ## You remember Pokemon Go
 * Walk around, catch Squirtles and stuff
 * It was ridiculously popular for like two months in 2016
-* Then peopel got sick of catching another goddamn Pidgey and stopped playing
+* Then people got sick of catching another goddamn Pidgey and stopped playing
 
 
 ## What is dead may never die
