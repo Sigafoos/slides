@@ -176,7 +176,7 @@ stamina = (base stamina + stamina IV) * CPM
 
 ## May is the Nightmare Cup
 * [Fighting, Dark, Psychic types](https://silph.gg/nightmare-cup)
-* No legendaries, mythicals, Sableye or Medichan
+* No legendaries, mythicals, Sableye or Medicham
 * We'll probably have our tournament the last week of May
 
 
