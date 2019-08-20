@@ -90,7 +90,7 @@ Let's say Toxicroak is the best lead in Twilight Cup. (it's not, but go with me)
 * My first cup I entered in the IVs\* and moves of each Pokemon, then downloaded the csv
 * Then imported them all into one mega-csv and wrote macros to highlight each matchup
 
-<small>\* [see previous DevTricks, true believer! -ed.]</small>
+<small>\* [see [previous DevTricks](http://slides.danconley.net/pokemongo/index.html#/), true believer! -ed.]</small>
 
 
 ## But that's boring, make a robot do it
