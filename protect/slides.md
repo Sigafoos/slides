@@ -4,6 +4,12 @@ Dan Conley
 dconley@protonmail.com
 
 
+## Two parts of this talk
+1. Philosophical improvements: reconsider *how* and *why* you use the internet
+
+2. Practical improvements: concrete things you can do to improve your privacy
+
+
 
 # Part 1: Philosophical improvements
 
@@ -13,15 +19,12 @@ dconley@protonmail.com
 * Just because you don't think anyone *will* look at something you post doesn't mean they *can't* (and won't)
 * Everything you post publicly is available forever
 * (mostly)
+
+
+## The internet is a big place
 * It's okay to be a stupid, goofy kid online! But do it in a way that won't haunt you as an adult.
-* This does not include hate speech/harassment. Those are never okay. Be better.
+* (This does not include hate speech/harassment. Those are never okay. Be better.)
 * Privacy settings are a door. Close it. Let in people you want.
-
-
-## "if you've got nothing to hide..."
-* That's nonsense.
-* TODO more
-
 
 
 ## You matter
@@ -30,10 +33,30 @@ dconley@protonmail.com
 * Identity. Credit history. *Friends*. (we'll talk about Facebook in a bit)
 
 
-
 ## Your place in a group matters
 * Computers let us crunch lots of data very quickly.
+* Things that would be impossible to predict as a person can be done easily with computer data models
+* Cambridge Analytica misused personal information from Facebook to create [253 predictions based on someone's data](https://www.theguardian.com/news/2018/may/06/cambridge-analytica-how-turn-clicks-into-votes-christopher-wylie)
 
+
+
+## Think about what you post online
+* Who can see it?
+* Can it be taken out of context?
+* Who *else* is involved, and are they okay with it being posted?
+* Does it contain children?
+
+
+## BSA has regulations
+* [Guide to Safe Scouting](https://www.scouting.org/health-and-safety/gss/)
+	* remember no 1x1 contact even electronically
+	* cyberbullying
+
+* [Social Media Guidelines](https://scoutingwire.org/social-media-guidelines/)
+	* aimed at youth and adults
+	* recommends keeping Facebook groups public, **but**
+	* _are you posting private information of other people publicly?_
+	* personally, I _never_ post pictures of my kids on a public feed: I wouldn't want my Pack/Troop to either
 
 
 # Part 2: Practical improvements
@@ -58,7 +81,7 @@ dconley@protonmail.com
 <li>but they have... a lot of data</li>
 <li>they don't look at it, but still</li>
 <li>they are not your friend</li>
-<li>(TODO: alternative software site)</li>
+<li>In general, <a href="https://switching.social/">switching.social</a> is a good site</li>
 </ul>
 
 
@@ -90,15 +113,9 @@ dconley@protonmail.com
 
 
 ## Password manager options
-TODO: add links
-
-* LastPass (what I use)
-* 1Password
-* KeePass
-
-
-## Using a password manager
-TODO
+* [LastPass](https://www.lastpass.com/) (what I use)
+* [1Password](https://1password.com/)
+* [KeePass](https://keepass.info/)
 
 
 
@@ -119,11 +136,9 @@ TODO
 
 
 ## 2FA options
-TODO: add links
-
-* Google Authenticator
-* LastPass Authenticator (what I use)
-* Authy
+* [Google Authenticator](https://google-authenticator.com/)
+* [LastPass Authenticator](https://lastpass.com/auth/) (what I use)
+* [Authy](https://authy.com/)
 
 
 ## Adding a site to your 2FA manager
@@ -154,19 +169,45 @@ TODO: add links
 
 
 ## Determining if a cookie is good or bad (without testing for raisins)
-TODO links
-
-* Privacy Badger
-* Disconnect
-* Also AdBlock Plus, but that blocks ads
-* I'll let you determine if you want to support websites via their ad-based business model
+* [Privacy Badger](https://www.eff.org/privacybadger)
+* [Disconnect](https://disconnect.me/)
+* Also [AdBlock Plus](https://adblockplus.org/), but that blocks ads
+	* I'll let you determine if you want to support websites via their ad-based business model
 
 
 ## An axiom
 If you don't pay for a website, you aren't the customer. You're the product.
 
-TODO attribution
+
+## More sinisterly...
+> Stored personality characteristics may be used as targeting criteria for advertisers ... to increase the likelihood that the user . . . positively interacts with a selected advertisement
+
+<p class="fragment">- <a href="https://patents.google.com/patent/US9740752B2/en">Facebook</a></p>
 
 
 
-# Use a VPN
+## Use a VPN
+* Kind of out of scope
+* Encrypts your web traffic and sends all request to a specific location
+* Prevents your network from seeing the request; just the end network
+* Useful for sending data to a different country (with less restrictive access and/or better privacy laws), or when using "free" airport wifi
+
+
+
+# Closing thoughts
+
+
+## I'm not trying to scare you
+* I realize I sound like a fire and brimstone preacher
+* _repent! repent your sinful tweets and your snapped chats! for a reckoning is at hand!_
+* It's really easy to not realize how much information we're just giving away to people who may not do good things with it. I make mistakes too.
+
+
+## Don't panic
+* You can never be perfect. You can only be more perfect.
+
+* Completely cutting Google, Amazon and Facebook out of your life is [nearly impossible at this point](https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194)
+
+
+
+# Questions?
