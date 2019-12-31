@@ -58,26 +58,21 @@ Dan Conley
 
 
 ## An example entry
-* `Do Devtricks presentation`
+* `Do Tech Talks presentation`
 * To mark an item as complete, prepend with an `x`
-* `x Do Devtricks presentation`
+* `x Do Tech Talks presentation`
 * You can also add the date it was completed
-* `x 2018-12-11 Do Devtricks presentation`
+* `x 2020-01-03 Do Tech Talks presentation`
 
 
 ## A more in depth example
-`(A) 2018-12-07 Do Devtricks presentation +Synacor @office due:2018-12-11 url:http://vm01.dconley.dev.opal.synacor.com/~dconley/slides/todotxt/`
+`(A) 2019-12-30 Do Tech Talks presentation +ACV @office due:2020-01-03 url:http://slides.danconley.net/todotxt/`
 
 * Priority is A-Z
 * Projects start with `+`
 * Contexts start with `@`
-* Arbitrary key:value couples (none of which are "official"; some are widely supported)
+* Arbitrary key:value pairs (none of which are "official"; some are widely supported)
 
-
-## Add apps if you want
-or if you prefer
-
-don't
 
 
 ## This is all any to do system is
@@ -85,6 +80,12 @@ don't
 * And human-readable
 * And lightweight as h\*ck
 
+
+
+## Add apps if you want
+or if you prefer
+
+don't
 
 
 ## Apps!
@@ -101,8 +102,8 @@ I'll be focusing on the CLI, because it's what turns this from "simple but effec
 ## `man todo.sh`
 * (first off, alias it to `t` or at least `todo`)
 * `t ls`: see what's in the file, sorted by priority
-* `t ls +Synacor`: filter by project (or context, or keyword, etc)
-* `t add "Do Devtricks presentation +Synacor"`
+* `t ls +ACV`: filter by project (or context, or keyword, etc)
+* `t add "Do Tech Talks presentation +ACV"`
 * Tasks are given a numeric id (their line number in the file)
 * `t do 23` to do a task
 * `t pri 413 V` to prioritize
@@ -112,7 +113,7 @@ I'll be focusing on the CLI, because it's what turns this from "simple but effec
 ## The key feature
 * Plugins!
 * Turn "I wish it did X" into "oh cool it does X now"
-* Plenty exist already, but if you can do some scripting (and you're attending Devtricks, so *chances are...!*) you can make your own
+* Plenty exist already, but if you can do some scripting (and you're attending Tech Talks, so *chances are...!*) you can make your own
 
 
 ## Making a plugin
@@ -157,7 +158,7 @@ Then print with bash's colored escape sequences
 * A few examples exist
 * Uses `rec:1m` for 1 month
 * Two issues: I need to be able to specify days of the week (ie don't repeat on weekends)
-* They also tend to be `t rec 23` instead of `t do 23`
+* They also tend to be `t rec 23` instead of `t do 23` (so you use a different command if it recurs or doesn't)
 
 
 # I could live with this
@@ -178,7 +179,7 @@ Then print with bash's colored escape sequences
 * `due2`: an unfinished due date implementation
 * `review`: generate a weekly review/"trigger list" for thinking of new tasks
 * `summary`: high-level counts of tasks
-* I also have a partially functional time tracking system working, sort of implementing [Timewarrior](https://timewarrior.net/) with the todo.txt format
+* I also have a fairly functional time tracking system working, sort of implementing [Timewarrior](https://timewarrior.net/) with the todo.txt format
 
 
 
