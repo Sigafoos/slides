@@ -16,10 +16,10 @@ March 2020
 * You have to be _present_ while listening: at most you get ~25 minutes before you need to flip the record
 
 
-> Vinyl has returned to being a priority for us - not just for the warmth of the sound, but the interaction it demands from the listener. The canvas of artwork, the weight of the record, the smell of the vinyl, the dropping of the needle, the difficulty of skipping tracks, the changing of sides, the secrets hidden within, and having a physical object that exists in the real world with you… all part of the experience and magic.
+> Vinyl has returned to being a priority for us - not just for the warmth of the sound, but the interaction it demands from the listener. The canvas of artwork, the weight of the record, the smell of the vinyl, the dropping of the needle, the difficulty of skipping tracks, the changing of sides, the secrets hidden within, and having a physical object that exists in the real world with you... all part of the experience and magic.
 
 
-> Digital formats and streaming are great and certainly convenient, but the ideal way I’d hope a listener experience my music is to grab a great set of headphones, sit with the vinyl, drop the needle, hold the jacket in your hands looking at the artwork (with your fucking phone turned off) and go on a journey with me.
+> Digital formats and streaming are great and certainly convenient, but the ideal way I'd hope a listener experience my music is to grab a great set of headphones, sit with the vinyl, drop the needle, hold the jacket in your hands looking at the artwork (with your fucking phone turned off) and go on a journey with me.
 
 Trent Reznor
 
